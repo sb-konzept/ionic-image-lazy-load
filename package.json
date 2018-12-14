@@ -9,6 +9,11 @@
   "main": "ionic-image-lazy-load.js",
   "scripts": {},
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sb-konzept/ionic-image-lazy-load"
+  },
+  "private": true,
   "dependencies": {},
   "devDependencies": {}
 }
