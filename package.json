@@ -13,7 +13,6 @@
     "type": "git",
     "url": "https://github.com/sb-konzept/ionic-image-lazy-load"
   },
-  "private": true,
   "dependencies": {},
   "devDependencies": {}
 }
